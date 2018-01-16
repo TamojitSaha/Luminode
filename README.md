@@ -54,17 +54,17 @@ Connect us here:
 <p> 
 or <a href ="https://github.com/SandeepanSengupta/Luminode/issues/new/">file an issue</a>. Feature requests are always welcome.</p>
 <p align="center">
- <img src="./demos/Luminode_Controller_ProMini.png" heigth="483" width="400"> &nbsp
- <img src="./demos/Luminode_Power_Supply.png" heigth="486" width="400"> &nbsp
+ <img src="./demos/Luminode_Controller_ProMini.png" heigth="241" width="200"> &nbsp
+ <img src="./demos/Luminode_Power_Supply.png" heigth="243" width="200"> &nbsp
 </p>
 <p align="center">
- <img src="./demos/LumiNode_board_top.png" heigth="400" width="800"> &nbsp 
+ <img src="./demos/LumiNode_board_top.png" heigth="200" width="400"> &nbsp 
 </p>
 <p align="center">
- <img src="./demos/LumiNode_board_bottom.png" heigth="400" width="800"> &nbsp 
+ <img src="./demos/LumiNode_board_bottom.png" heigth="200" width="400"> &nbsp 
 </p>
 <p align="center">
- <img src="./demos/Luminode_Schematic.png" heigth="573" width="800"> &nbsp
+ <img src="./demos/Luminode_Schematic.png" heigth="286" width="400"> &nbsp
 </p>
 
 ## License
