@@ -15,11 +15,11 @@ It is open-source and built for Arduino ecosystem making it suitable for hobbysi
  <img src="./Demos/LumiNode_board_bottom.png" heigth="200" width="400"> &nbsp 
 </p>
 <p align="center">
- <img src="./Demos/Luminode_Controller_ProMini.png" heigth="483" width="400"> &nbsp
- <img src="./Demos/Luminode_Power_Supply.png" heigth="485" width="400"> &nbsp
+ <img src="./Demos/Luminode_Controller_ProMini.png" heigth="360" width="300"> &nbsp
+ <img src="./Demos/Luminode_Power_Supply.png" heigth="360" width="300"> &nbsp
 </p>
 <p align="center">
- <img src="./Demos/Luminode_Schematic.png" heigth="286" width="400"> &nbsp
+ <img src="./Demos/Luminode_Schematic.png" heigth="429" width="600"> &nbsp
 </p>
 
 
