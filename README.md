@@ -18,7 +18,7 @@ It is open-source and built for Arduino ecosystem making it suitable for hobbysi
  <img src="./Demos/LumiNode_board_top.png" heigth="400" width="800"> &nbsp
 </p>
 <p align="center">
- <img src="./Demos/LumiNode_board_top.png" heigth="400" width="800"> &nbsp
+ <img src="./Demos/LumiNode_board_bottom.png" heigth="400" width="800"> &nbsp
 </p>
 <p align="center">
  <img src="./Demos/Luminode_Schematic.png" heigth="573" width="800"> &nbsp
