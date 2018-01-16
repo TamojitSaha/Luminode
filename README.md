@@ -11,12 +11,12 @@
 A wireless multipurpose IoT (Internet of Things) compatible smart light system that can reproduce colour from any image in RGB colour space with intensity adjustment capability.
 It is open-source and built for Arduino ecosystem making it suitable for hobbysist and beginners.
 <p align="center">
- <img src="./Demos/Luminode_Controller_ProMini.png" heigth="241" width="200"> &nbsp
- <img src="./Demos/Luminode_Power_Supply.png" heigth="243" width="200"> &nbsp
-</p>
-<p align="center">
  <img src="./Demos/LumiNode_board_top.png" heigth="200" width="400"> &nbsp 
  <img src="./Demos/LumiNode_board_bottom.png" heigth="200" width="400"> &nbsp 
+</p>
+<p align="center">
+ <img src="./Demos/Luminode_Controller_ProMini.png" heigth="483" width="400"> &nbsp
+ <img src="./Demos/Luminode_Power_Supply.png" heigth="485" width="400"> &nbsp
 </p>
 <p align="center">
  <img src="./Demos/Luminode_Schematic.png" heigth="286" width="400"> &nbsp
