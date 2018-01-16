@@ -11,18 +11,17 @@
 A wireless multipurpose IoT (Internet of Things) compatible smart light system that can reproduce colour from any image in RGB colour space with intensity adjustment capability.
 It is open-source and built for Arduino ecosystem making it suitable for hobbysist and beginners.
 <p align="center">
- <img src="./Demos/Luminode_Power_Supply.png" heigth="486" width="400"> &nbsp
- <img src="./Demos/Luminode_Controller_ProMini.png" heigth="483" width="400"> &nbsp
+ <img src="./Demos/Luminode_Controller_ProMini.png" heigth="241" width="200"> &nbsp
+ <img src="./Demos/Luminode_Power_Supply.png" heigth="243" width="200"> &nbsp
 </p>
 <p align="center">
- <img src="./Demos/LumiNode_board_top.png" heigth="400" width="800"> &nbsp
-</p>
-<p align="center">
- <img src="./Demos/LumiNode_board_bottom.png" heigth="400" width="800"> &nbsp
+ <img src="./Demos/LumiNode_board_top.png" heigth="200" width="400"> &nbsp 
+ <img src="./Demos/LumiNode_board_bottom.png" heigth="200" width="400"> &nbsp 
 </p>
 <p align="center">
  <img src="./Demos/Luminode_Schematic.png" heigth="573" width="800"> &nbsp
 </p>
+
 
 ## Bill of Materials
 
@@ -53,19 +52,6 @@ Connect us here:
  [![Build Platforms](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.linkedin.com/in/sandeepan-sengupta/)
 <p> 
 or <a href ="https://github.com/SandeepanSengupta/Luminode/issues/new/">file an issue</a>. Feature requests are always welcome.</p>
-<p align="center">
- <img src="./demos/Luminode_Controller_ProMini.png" heigth="241" width="200"> &nbsp
- <img src="./demos/Luminode_Power_Supply.png" heigth="243" width="200"> &nbsp
-</p>
-<p align="center">
- <img src="./demos/LumiNode_board_top.png" heigth="200" width="400"> &nbsp 
-</p>
-<p align="center">
- <img src="./demos/LumiNode_board_bottom.png" heigth="200" width="400"> &nbsp 
-</p>
-<p align="center">
- <img src="./demos/Luminode_Schematic.png" heigth="286" width="400"> &nbsp
-</p>
 
 ## License
 Contents of this repository are realeased under [CC-BY-NC-SA 4.0](./LICENSE.md) <br>
