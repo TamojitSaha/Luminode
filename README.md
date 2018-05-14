@@ -10,7 +10,7 @@
 
 ## Introduction
 [![Build Platforms](https://img.shields.io/badge/build_platform-arduino-10A2AE.svg)](https://www.arduino.cc)
-[![Dependency](https://img.shields.io/badge/LumiNode_App-4EC820.svg)](https://github.com/TamojitSaha/Luminode/raw/master/Sources/Luminode.apk)
+[![Dependency](https://img.shields.io/badge/Dependency-LumiNode_App-brightgreen.svg)](https://github.com/TamojitSaha/Luminode/raw/master/Sources/Luminode.apk)
 [![Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](#contributors)
 [![PCB](https://img.shields.io/badge/PCB_design-EagleCAD-EE8822.svg)](https://www.autodesk.com/products/eagle/overview)
 
