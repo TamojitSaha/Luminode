@@ -1,13 +1,18 @@
 <h1 align="center"> LumiNode </h1> <br>
 
 ## Table of Contents
-- [About](#about)
+- [Introduction](#intrduction)
 - [Bill of Materials](#bill-of-materials)
-- [Social](#social)
+- [Features](#features)
+- [Contributors](#Contributors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## About
+## Introduction
+[![Build Platforms](https://img.shields.io/badge/build_platform-arduino-10A2AE.svg)](https://www.arduino.cc)
+[![Dependency](https://img.shields.io/badge/LumiNode App-4EC820.svg)](https://github.com/TamojitSaha/Luminode/raw/master/Sources/Luminode.apk)
+[![Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](#contributors)
+[![PCB](https://img.shields.io/badge/PCB_design-EagleCAD-EE8822.svg)](https://www.autodesk.com/products/eagle/overview)
 A wireless multipurpose IoT (Internet of Things) compatible smart light system that can reproduce colour from any image in RGB colour space with intensity adjustment capability.
 It is open-source and built for Arduino ecosystem making it suitable for hobbysist and beginners.
 <p align="center">
@@ -43,9 +48,14 @@ It is open-source and built for Arduino ecosystem making it suitable for hobbysi
         16. 2 x 100nF in 0805 package
         17. 1 x ferrite chip 0805 package(optional: pads can be shorted in PCB)
         18. 1 x 1A PTC 0805 package(optional: pads can be shorted in PCB
-        
 
-## Social
+
+## Features
+- Simple UI
+- Colour selection from any chosen image
+- Real-time colour synchronization
+
+## Contributors
 Connect us here:
 <br><br>
  [![Build Platforms](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.linkedin.com/in/tamojit-saha/)<br>
